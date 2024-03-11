@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T14:09:39.135Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="vNW0YLlivyqzRs3zd31i" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-11T14:17:45.420Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="0tPyeRzRrYgzxfHv-ZnP" version="23.1.1" type="github" pages="3">
   <diagram name="Interaction PVD" id="-DeyoEZ2D2XO7HjIIuVZ">
     <mxGraphModel dx="2802" dy="1966" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TiR0Bk-YTWI_KHzvCJ0_-6" target="TiR0Bk-YTWI_KHzvCJ0_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-6" value="Sa proposition est la plus plébicité" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-6" value="Sa proposition est la plus plébiscitée" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TiR0Bk-YTWI_KHzvCJ0_-7" target="TiR0Bk-YTWI_KHzvCJ0_-19">
@@ -141,10 +141,10 @@
         <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-11" value="Tour&lt;br&gt;de&lt;br&gt;PVD" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-19" value="Sa proposition es rédigée en questions et proposition. Puis soumise au jugement majoritaire (vote) " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-19" value="Sa proposition est rédigée en questions et propositions, puis soumise au jugement majoritaire (vote) " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="460" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-22" value="Sa proposition es rédigée en questions et propositions " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-22" value="Sa proposition est rédigée en questions et propositions " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TiR0Bk-YTWI_KHzvCJ0_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FF0F0F;strokeColor=#FF2921;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TiR0Bk-YTWI_KHzvCJ0_-11" target="TiR0Bk-YTWI_KHzvCJ0_-19">
