@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T13:15:24.738Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="TewJAAbkZRjpdWHRVXyi" version="23.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-12T13:15:40.807Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="CNK1KY0KRidB_TxJwLq5" version="23.1.1" type="github" pages="6">
   <diagram name="Interaction PVD" id="-DeyoEZ2D2XO7HjIIuVZ">
     <mxGraphModel dx="2802" dy="1966" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -489,6 +489,14 @@
         <mxCell id="UhPl7O9Sgf9_iYQe-YO9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="UhPl7O9Sgf9_iYQe-YO9-1" source="UhPl7O9Sgf9_iYQe-YO9-19" target="QidHwajKKncBWVkT79RU-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-145" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrglDaIDF9l7HBct_65G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UhPl7O9Sgf9_iYQe-YO9-1" source="UhPl7O9Sgf9_iYQe-YO9-19" target="vrglDaIDF9l7HBct_65G-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-417" y="420" />
+              <mxPoint x="145" y="420" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UhPl7O9Sgf9_iYQe-YO9-19" value="&quot;On étudie 1 &lt;br&gt;proposition &lt;br&gt;cette semaine&quot;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="UhPl7O9Sgf9_iYQe-YO9-1">
